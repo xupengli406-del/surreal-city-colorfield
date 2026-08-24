@@ -1,0 +1,4 @@
+interface:
+  display_name: "城市超现实色形系列"
+  short_description: "把城市照片编排成高纯度大色域与唯一巨物的超现实拼贴系列"
+  default_prompt: "Use $surreal-city-colorfield to turn these city photos into a coherent surreal colorfield collage series."
