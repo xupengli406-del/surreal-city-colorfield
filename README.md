@@ -89,3 +89,7 @@ skills/
 ## License
 
 MIT
+
+## 本轮练习案例
+
+- [巴黎铁塔与天空风筝](examples/paris-kite/README.md)：以 Guilhem Vellut 的 CC BY 2.0 原照为输入，附署名、许可链接及 AI 改编说明。
